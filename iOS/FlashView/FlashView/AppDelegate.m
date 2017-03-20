@@ -19,6 +19,8 @@
     // Override point for customization after application launch.
     // 呵呵哒
     //testgit
+    NSArray *arr = @[@"hdha" ];
+    NSLog(@"%@",arr);
     return YES;
 }
 
